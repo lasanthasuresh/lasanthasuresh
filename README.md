@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 # Resume
 
 ## Personal Information
-- Name: John Doe
-- Email: johndoe@example.com
-- Phone: +1 123-456-7890
-- Location: New York, USA
+- Name: Suresh Lasantha
+- Email: lasanthasuresh@gmail.com
+- Phone: +94 390 2185
+- Location: Colombo, Sri Lanka
 
 ## Education
 ### Master in Computer Science
